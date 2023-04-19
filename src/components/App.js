@@ -4,7 +4,7 @@ import ArticleList from "./ArticleList";
 import Header from "./Header";
 import blogData from "../data/blog";
 
-//console.log(blogData);
+console.log(blogData);
 
 function App() {
   return (
@@ -17,7 +17,3 @@ function App() {
 }
 
 export default App;
-
-
-// console.log(blogData);
-
